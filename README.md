@@ -1,6 +1,16 @@
 # Women's Safety using Artificial Intelliegnce
 
 
+
+
+TEAM NO-6
+
+
+
+TRAINED BY-
+MEDHANGSHI DAS
+MOUNIKA JADDA
+
 Below I have uploaded the working demonstration of the Ml project
 
 
